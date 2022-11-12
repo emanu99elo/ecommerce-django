@@ -5,6 +5,7 @@
 html {
   font-family: "Inter", sans-serif;
   font-size: 15px;
+  
 }
 
 /* ========================
@@ -1352,7 +1353,7 @@ a[class*=card]:hover .title {
   margin-bottom: 10px;
   border-radius: 0.37rem;
   overflow: hidden;
-  background-color: #fff;
+  background-color: rgba(138, 136, 136, 0.644);
 }
 .gallery-wrap .img-big-wrap a {
   text-align: center;
